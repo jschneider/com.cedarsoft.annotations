@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 120.918,
-  "full_display_name": "com.cedarsoft.annotations #92",
-  "id": "2013-06-03_02-37-11",
-  "number": 92,
+  "duration": 123.973,
+  "full_display_name": "com.cedarsoft.annotations #93",
+  "id": "2013-06-04_02-37-11",
+  "number": 93,
   "result": "SUCCESS",
   "status_message": "?",
-  "time": "2013-06-03 02:37:11 +0200",
-  "url": "job/com.cedarsoft.annotations/92/"
+  "time": "2013-06-04 02:37:11 +0200",
+  "url": "job/com.cedarsoft.annotations/93/"
 }
